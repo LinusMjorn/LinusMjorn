@@ -9,3 +9,5 @@ I have recently finshed the Makers Academy bootcamp. The course is heavily focus
 I am currently further developing my skills in both Ruby and JS.
 
 [CV](https://github.com/LinusMjorn/CV)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LinusMjorn)](https://github.com/anuraghazra/github-readme-stats)
