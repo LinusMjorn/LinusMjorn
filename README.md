@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working on an interactive website for the University Of Kent.
+
 I have recently graduated from Makers Acadamy in London.
 
 Before that, I have spent about four years working in the property industry. Over time, I realised that my ambitions lay elsewhere, and that I wanted to make a difference. I was already self-teaching coding skills using Codecademy and quickly developing a passion for it. I decided that switching career paths to software development would kill two birds with one stone, I could do something every day that I enjoy (programming), and work towards finding a position in a copmany that would allow me to give back to society.
