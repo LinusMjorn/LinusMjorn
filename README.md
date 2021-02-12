@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working on an interactive website for the University Of Kent.
+Currently working developing a website fot The University of Kent.
 
 I have recently graduated from Makers Acadamy in London.
 
